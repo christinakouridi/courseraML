@@ -17,6 +17,3 @@ Ex6 - Support Vector Machines
 Ex7 - K-means Clustering and Principal Component Analysis
 
 Ex8 - Anomaly Detection and Recommender Systems
-
-## References
-[[1] Machine Learning - Stanford University](https://www.coursera.org/learn/machine-learning)
